@@ -20,4 +20,4 @@ I'm a student developer interested in AI, data science, and finance. I like buil
 
 ## Find me
 
-[Website](https://dillonnagar.com) · [GitHub](https://github.com/Manateek1)
+[Website](https://dillonnagar.com) · [LinkedIn](https://linkedin.com/in/dillonnagar)
